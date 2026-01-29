@@ -65,6 +65,14 @@ python Snake\ Game\ Alt.py
 - Add Hamiltonian Cycle algorithm.
 - Improve deadlock avoidance for long snake bodies.
 
+## 🎮 User Play Version (Web Version)
+- A web-based manual version of the Snake game.
+- The player controls the snake using the keyboard.
+- Used as a baseline for comparison with the AI-controlled version.
+
+🌐 Play Online:  
+https://nourravsnakegameweb.netlify.app/
+
 ---
 
 ## 📜 Copyright
